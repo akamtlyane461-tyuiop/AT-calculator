@@ -1,0 +1,20 @@
+{
+  "name": "AT Calculator",
+  "short_name": "AT-Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090514",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/neon/96/calculator.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/neon/512/calculator.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
